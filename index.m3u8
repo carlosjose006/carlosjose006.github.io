@@ -67,7 +67,7 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8?checkedby:iptvcat.com
 https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Cibaeña TV (720p)
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Cielo TV (1080p)
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="DO",Cielo TV (1080p)
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Cinevision Canal 19 (720p)
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8?checkedby:iptvcat.com
@@ -75,19 +75,19 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8?checkedby:ip
 https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Claro Visión TV (720p)
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",ColimdoT TV (720p)
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Deporte",ColimdoT TV (720p)
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Visión (720p) [Not 24/7]
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="DO",Color Visión (720p) [Not 24/7]
 http://paz.sytes.net:32769/memfs/6aa68aa7-49e0-427c-be37-d60daecb939f.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Visión (720p) [Not 24/7]
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="DO",Color Visión (720p) [Not 24/7]
 http://51.81.93.29:8084/hls/colorv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Color Visión (720p) [Not 24/7]
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="DO",Color Visión (720p) [Not 24/7]
 https://glb.bozztv.com/glb/ssh101/0009/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",ConstanzaTV (720p)
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Coral 39 (720p)
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="DO",Coral 39 (720p)
 https://glb.bozztv.com/glb/ssh101/0039/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Coral 39 (720p)
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="DO",Coral 39 (720p)
 http://51.81.93.29:8084/hls/coral39.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Cotubanama TV (1080p)
 https://rdn.essastream.com:3539/live/cotubanamatvlive.m3u8?checkedby:iptvcat.com
@@ -101,9 +101,9 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8?checkedby:iptvcat.co
 https://rdn.essastream.com:3996/live/citricotvlive.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",DAN TV (720p) [Not 24/7]
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Digital 15 (480p)
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="DO",Digital 15 (480p)
 http://51.81.93.29:8084/hls/d15.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Digital 15 (480p)
+#EXTINF:0 tvg-country="DO" tvg-logo="" group-title="DO",Digital 15 (480p)
 https://glb.bozztv.com/glb/ssh101/0015/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="" group-title="Undefined",Digital Visión 63 (720p)
 https://ss5.domint.net:3024/dig_str/digitalvision63/playlist.m3u8?checkedby:iptvcat.com
@@ -354,7 +354,7 @@ http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161249
 http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161254
 #EXTINF:-1,D - ery ID (US)(i)
 http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161258
-#EXTINF:-1,NatGeo  (US)(i)
+#EXTINF:-1, group-title="Cultura" NatGeo  (US)(i)
 http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161261
 #EXTINF:-1,TSN 3 (US)(i)
 http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161288
