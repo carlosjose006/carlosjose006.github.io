@@ -266,3 +266,835 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a63
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Pluto TV The Walking Dead ESP (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:-1,TV Mexiquense (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158639
+#EXTINF:-1,Telemax (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158640
+#EXTINF:-1,Televisa 44.1 CD. Juarez (XHIJ-TV) * (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158642
+#EXTINF:-1,A and E E (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158672
+#EXTINF:-1,EUROPA EUROPA (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158681
+#EXTINF:-1,FILM ARTS. (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158682
+#EXTINF:-1,FX HD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158684
+#EXTINF:-1,G-vision NewYork (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158685
+#EXTINF:-1,G-vision Sacramento (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158687
+#EXTINF:-1,Lifetime HD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158690
+#EXTINF:-1,Star Channel FHD (MX)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158692
+#EXTINF:-1,U-mas Miami (WAMI) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158750
+#EXTINF:-1,CNBC World  (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159889
+#EXTINF:-1,CNBC (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159941
+#EXTINF:-1,BeinS (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161161
+#EXTINF:-1,BeinS Xtra ES (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161181
+#EXTINF:-1,MSG US (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161192
+#EXTINF:-1,MSG + US (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161194
+#EXTINF:-1,Life Time (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161205
+#EXTINF:-1,STARZ ENCORE EAST (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161210
+#EXTINF:-1,STARZ KIDS  and  FAMILY (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161215
+#EXTINF:-1,SHOWTIME (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161217
+#EXTINF:-1,SHOWTIME 2 (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161218
+#EXTINF:-1,SHOWTIME XTREME (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161219
+#EXTINF:-1,SHOWTIME BEYOND (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161220
+#EXTINF:-1,SHOWTIME SHOWCASE (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161222
+#EXTINF:-1,H - v - O East (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161223
+#EXTINF:-1,H - v - O 2 (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161224
+#EXTINF:-1,H - v - O Signature (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161226
+#EXTINF:-1,H - v - O Family (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161227
+#EXTINF:-1,EPIX (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161228
+#EXTINF:-1,EPIX 2 (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161229
+#EXTINF:-1,MoreMax (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161230
+#EXTINF:-1,SHOWTIME WOMEN (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161232
+#EXTINF:-1,ThrillerMax East (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161234
+#EXTINF:-1,Action Max (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161238
+#EXTINF:-1,IFC East HD (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161245
+#EXTINF:-1,E! (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161246
+#EXTINF:-1,FYI (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161247
+#EXTINF:-1,TRU TV (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161248
+#EXTINF:-1,LifeTime (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161249
+#EXTINF:-1,A Plan (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161254
+#EXTINF:-1,D - ery ID (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161258
+#EXTINF:-1,NatGeo  (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161261
+#EXTINF:-1,TSN 3 (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161288
+#EXTINF:-1,SPORTNET LA Lakers (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161298
+#EXTINF:-1,BBC World (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161299
+#EXTINF:-1,HD  EstrellaTV (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161301
+#EXTINF:-1,ES-PN ACC Network (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161302
+#EXTINF:-1,Boomerang (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161304
+#EXTINF:-1,Ctoon Net (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161305
+#EXTINF:-1,Car nito (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161306
+#EXTINF:-1,BabyTV (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161307
+#EXTINF:-1,Disney Channel (US)(i) op2
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161308
+#EXTINF:-1,Disney Jr (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161309
+#EXTINF:-1,Disney XD (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161310
+#EXTINF:-1,Nick Jr (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161312
+#EXTINF:-1,Tenn Nick (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161313
+#EXTINF:-1,YES Network (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/161314
+#EXTINF:-1,CNL5 (i) op3
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/162991
+#EXTINF:-1,CNL5 (i) op4
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/162992
+#EXTINF:-1,A Plan (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/163547
+#EXTINF:-1,D - ery Tur HD (MX)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/164301
+#EXTINF:-1,D - ery Tur FHD (MX)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/164302
+#EXTINF:-1,FOX Kansas City (WDAF) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165254
+#EXTINF:-1,ABC-Atlanta HD ( WSB-TV ) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165255
+#EXTINF:-1,ABC-Dallas HD (WFAA-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165256
+#EXTINF:-1,ABC-Los Angeles HD (KABC-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165258
+#EXTINF:-1,ABC-Miami HD (WPLG-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165259
+#EXTINF:-1,ABC-New York (WABC-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165260
+#EXTINF:-1,ABC-Orlando HD (WFTV-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165261
+#EXTINF:-1,ABC-Phoenix HD (KNXV-TV ) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165262
+#EXTINF:-1,CBS-Atlanta HD (WGCL-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165264
+#EXTINF:-1,CBS-Dallas HD (KAUZ-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165265
+#EXTINF:-1,CBS-Houston HD (KHOU-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165266
+#EXTINF:-1,CBS-Detroit HD (WWJ-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165267
+#EXTINF:-1,CBS-Tampa bay HD (WTSP-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165273
+#EXTINF:-1,FOX-Austin HD (KTBC-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165274
+#EXTINF:-1,FOX-Atlanta HD (WAGA-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165275
+#EXTINF:-1,FOX-Dallas HD (KDFW-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165276
+#EXTINF:-1,FOX-Denver HD (KDVR-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165277
+#EXTINF:-1,FOX-Los Angeles HD (KTTV-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165279
+#EXTINF:-1,FOX-New York HD (WNYW-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165280
+#EXTINF:-1,NBC-Atlanta HD (WXIA-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165284
+#EXTINF:-1,NBC-Denver HD (KUSA-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165286
+#EXTINF:-1,NBC-Houston HD (KPRC-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165287
+#EXTINF:-1,NBC-Los Angeles HD (KNBC-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165288
+#EXTINF:-1,NBC-Miami HD (WTVJ-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165289
+#EXTINF:-1,NBC-Phoenix HD (KPNX-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165291
+#EXTINF:-1,ABC 10 Sacramento  KXTV-TV (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165294
+#EXTINF:-1,H - v - O POP (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/166454
+#EXTINF:-1,Multimedios Laguna (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/10086
+#EXTINF:-1,RCG
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/58432
+#EXTINF:-1,Canal 44 Chihuahua 30.1 (btv)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/59342
+#EXTINF:-1,Amzon Prime (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168558
+#EXTINF:-1,Cine Estelar (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168597
+#EXTINF:-1,Cine Nostalgia (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168598
+#EXTINF:-1,DW EN ESPANOL (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278308
+#EXTINF:-1,EL FINANCIERO BLOOMBERG (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278309
+#EXTINF:-1,A mas (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278312
+#EXTINF:-1,A MAS+ HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278313
+#EXTINF:-1,ADN 40 (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278314
+#EXTINF:-1,ADN 40 HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278315
+#EXTINF:-1,AZTECA 7 (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278316
+#EXTINF:-1,AZTECA 7 LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278318
+#EXTINF:-1,AZTECA UNO (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278319
+#EXTINF:-1,AZTECA UNO -2 HORAS (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278320
+#EXTINF:-1,AZTECA UNO HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278321
+#EXTINF:-1,AZTECA UNO LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278322
+#EXTINF:-1,CANAL 14 (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278323
+#EXTINF:-1,CANAL 22.1 (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278324
+#EXTINF:-1,CANAL 22.2 (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278325
+#EXTINF:-1,CANAL 4 GDL LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278326
+#EXTINF:-1,CANAL 4 GUADALAJARA (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278327
+#EXTINF:-1,CANAL 5 (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278328
+#EXTINF:-1,CANAL 5 HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278329
+#EXTINF:-1,CANAL 5 LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278330
+#EXTINF:-1,CANAL 66 MEXICALI (P
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278331
+#EXTINF:-1,CANAL ONCE (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278332
+#EXTINF:-1,AZTECA CLIC (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278333
+#EXTINF:-1,AZTECA CLIC HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278334
+#EXTINF:-1,CNN INTERNACIONAL (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278335
+#EXTINF:-1,AZTECA CORAZON (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278336
+#EXTINF:-1,AZTECA CORAZON HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278337
+#EXTINF:-1,AZTECA CORAZON LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278338
+#EXTINF:-1,FORO TV (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278339
+#EXTINF:-1,FORO TV HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278340
+#EXTINF:-1,FORO TV LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278341
+#EXTINF:-1,IMAGEN TV (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278342
+#EXTINF:-1,IMAGEN TV HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278343
+#EXTINF:-1,INGENIO TV (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278344
+#EXTINF:-1,LAS ESTRELLAS (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278345
+#EXTINF:-1,LAS ESTRELLAS -2 HORAS (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278346
+#EXTINF:-1,LAS ESTRELLAS -2 HORAS HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278347
+#EXTINF:-1,LAS ESTRELLAS LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278349
+#EXTINF:-1,MEXIQUENSE (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278350
+#EXTINF:-1,MILENIO (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278351
+#EXTINF:-1,MILENIO HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278352
+#EXTINF:-1,MULTIMEDIOS (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278353
+#EXTINF:-1,MULTIMEDIOS GUADALAJARA (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278354
+#EXTINF:-1,NUEVE (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278359
+#EXTINF:-1,MULTIMEDIOS MONTERREY (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278384
+#EXTINF:-1,AMC HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278394
+#EXTINF:-1,PASIONES HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278403
+#EXTINF:-1,SONY (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278404
+#EXTINF:-1,SONY HD (1080p) (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278405
+#EXTINF:-1,TCM (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278406
+#EXTINF:-1,Discovery TLC (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278407
+#EXTINF:-1,COMEDY CENTRAL (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278409
+#EXTINF:-1,COMEDY CENTRAL HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278410
+#EXTINF:-1,DISCOVERY HOME  and  HEALTH HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278411
+#EXTINF:-1,DISCOVERY HOME  and  HEALTH LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278412
+#EXTINF:-1,DISCOVERY TLC HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278413
+#EXTINF:-1,DISTRITO COMEDIA (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278415
+#EXTINF:-1,E! Entertainment (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278417
+#EXTINF:-1,E! ENTERTAINMENT HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278418
+#EXTINF:-1,E! LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278419
+#EXTINF:-1,EL GOURMET (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278420
+#EXTINF:-1,EL GOURMET HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278421
+#EXTINF:-1,BBC America (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279640
+#EXTINF:-1,Reelz (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/280033
+#EXTINF:-1,Tele - M (PR)(i) op4 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165228
+#EXTINF:-1,Tele - M (PR)(i) op5 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165229
+#EXTINF:-1,Tele - M (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165231
+#EXTINF:-1,Tele - M op2 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165232
+#EXTINF:-1,Tele - M Inter (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165233
+#EXTINF:-1,Tele - M Inter (i) op2
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165234
+#EXTINF:-1,Tele - M San Diego (KUAN-LD) op2 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165235
+#EXTINF:-1,Tele - M Miami (WSCV) op2 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165236
+#EXTINF:-1,Tele - M Salt Lake (KULX) op2 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165237
+#EXTINF:-1,Tele - M Laredo (KGNS-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165238
+#EXTINF:-1,Tele - M Yuma Centro (KYMA) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165239
+#EXTINF:-1,Tele - M Fresno (KNSO) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165240
+#EXTINF:-1,Tele - M Chicago (WSNS) op2 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165241
+#EXTINF:-1,Tele - M Chicago (WSNS) op3 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165242
+#EXTINF:-1,Tele - M 44 Chicago (WSNS) op4 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165243
+#EXTINF:-1,Tele - M 44 Chicago (WSNS) op5 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165244
+#EXTINF:-1,Tele - M Dallas (KXTX-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165245
+#EXTINF:-1,Tele - M Dallas (KXTX-TV) op2 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165246
+#EXTINF:-1,Tele - M Los Angeles (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165247
+#EXTINF:-1,Tele - M Los Angeles (KVEA) op2 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165248
+#EXTINF:-1,Tele - M California (KVEA-TV) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165249
+#EXTINF:-1,Tele - M Wisconsin (WYTU-LD) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165250
+#EXTINF:-1,Tele - M West (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165251
+#EXTINF:-1,Tele - M 48 El Paso (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165252
+#EXTINF:-1,Tele - M Houston (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165253
+#EXTINF:-1,LCDLF 24/7 (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168701
+#EXTINF:-1,LCDLF Baño (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168718
+#EXTINF:-1,LCDLF Camara 1 Acceso (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168716
+#EXTINF:-1,LCDLF Camara 2 Sala (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168717
+#EXTINF:-1,LCDLF Multicamaras (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168699
+#EXTINF:-1,LCDLF Sala (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168700
+#EXTINF:-1,18:00 RAW / LUNES / WWE Wrestling
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/111451
+#EXTINF:-1,La Academia 24/7 (p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/180591
+#EXTINF:-1,LCDLF  Toda La Casa 24-7 (P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278280
+#EXTINF:-1,Boston vs Florida 5.30pm 02.SEP
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/280580
+#EXTINF:-1,17:00 Pereira vs Caldas 03.SEP op2
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/280742
+#EXTINF:-1,17:00 Pereira vs Caldas 03.SEP op3
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/280743
+#EXTINF:-1,US Open 5pm ES.PN i 05.SEP
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/280784
+#EXTINF:-1,19:00 Spokane Velocity vs Union Omaha op2 04.SEP
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/280805
+#EXTINF:-1,NickToons HD. (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158668
+#EXTINF:-1,Disney Channel (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/164245
+#EXTINF:-1,CARTOON NETWORK (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278524
+#EXTINF:-1,CARTOON NETWORK HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278525
+#EXTINF:-1,CARTOON NETWORK LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278526
+#EXTINF:-1,CARTOONITO (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278527
+#EXTINF:-1,CARTOONITO HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278528
+#EXTINF:-1,CARTOONITO LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278529
+#EXTINF:-1,BABY FIRST (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278530
+#EXTINF:-1,BABY TV (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278532
+#EXTINF:-1,BABY TV HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278533
+#EXTINF:-1,BABY TV LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278534
+#EXTINF:-1,DISCOVERY KIDS (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278535
+#EXTINF:-1,DISCOVERY KIDS HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278536
+#EXTINF:-1,DISCOVERY KIDS LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278537
+#EXTINF:-1,DISNEY CHANNEL (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278538
+#EXTINF:-1,DISNEY CHANNEL HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278539
+#EXTINF:-1,DISNEY CHANNEL LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278540
+#EXTINF:-1,DISNEY JUNIOR (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278541
+#EXTINF:-1,DISNEY JUNIOR HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278542
+#EXTINF:-1,DISNEY JUNIOR LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278543
+#EXTINF:-1,NICK HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278544
+#EXTINF:-1,NICK JR. HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278546
+#EXTINF:-1,NICK LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278547
+#EXTINF:-1,NICK. JR LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278548
+#EXTINF:-1,ONCE NIÑ@S (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278549
+#EXTINF:-1,TEEN NICK (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278550
+#EXTINF:-1,TOONCAST (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278551
+#EXTINF:-1,TOONCAST LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278552
+#EXTINF:-1,NICK (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278553
+#EXTINF:-1,MotorTrend (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/15064
+#EXTINF:-1,Bally Sports Southeast (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158803
+#EXTINF:-1,Bally Sports San Diego (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158804
+#EXTINF:-1,Bally Sports Ohio (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158805
+#EXTINF:-1,Bally Sports North (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158806
+#EXTINF:-1,Bally Sports Midwest (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158807
+#EXTINF:-1,Bally Sports Florida (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158808
+#EXTINF:-1,Bally Sports Detroit (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158809
+#EXTINF:-1,Bally Sports Arizona (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158810
+#EXTINF:-1,Bally Sports Kansas City (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158811
+#EXTINF:-1,Bally Sports Indiana (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158812
+#EXTINF:-1,Bally Sports SoCal (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158813
+#EXTINF:-1,Bally Sports Great Lakes (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158814
+#EXTINF:-1,Bally Sports Oklahoma (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158815
+#EXTINF:-1,Bally Sports New Orleans (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158816
+#EXTINF:-1,BeinS Español HD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158817
+#EXTINF:-1,BeIN Sports US (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158818
+#EXTINF:-1,Caza y Pesca FHD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158820
+#EXTINF:-1,DA-N 2 HD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158823
+#EXTINF:-1,ES-PN MX HD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158826
+#EXTINF:-1,ES-PN 3 HD MX Encoder (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158828
+#EXTINF:-1,ES-PN 4 FHD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158829
+#EXTINF:-1,FOXS 1 MX HD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158833
+#EXTINF:-1,FOXS 2 HD MX (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158834
+#EXTINF:-1,FOXS 3 MX HD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158835
+#EXTINF:-1,NFL Network (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/158841
+#EXTINF:-1,FSP (US)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/160505
+#EXTINF:-1,Scai Golf (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/163452
+#EXTINF:-1,Redbull TV FHD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/164140
+#EXTINF:-1,Redbull TV HD (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/164141
+#EXTINF:-1,Redbull TV 4k (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/164142
+#EXTINF:-1,FOXS 3 MX HD (i) op2
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278265
+#EXTINF:-1,FOXS 3 MX HD (i) op3
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278266
+#EXTINF:-1,Claro Sports (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278554
+#EXTINF:-1,Latin American Sports (LAS) (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278555
+#EXTINF:-1,Claro Sports HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278556
+#EXTINF:-1,Claro Sports LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278557
+#EXTINF:-1,T-UDN HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278559
+#EXTINF:-1,T-UDN LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278560
+#EXTINF:-1,T-UDN (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278561
+#EXTINF:-1,AYM SPORTS LQ (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278562
+#EXTINF:-1,TVC DEPORTES (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278563
+#EXTINF:-1,TVC DEPORTES HD (MX)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278564
+#EXTINF:-1,Bein Sports 4 (US)(p)"
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279415
+#EXTINF:-1,Bein Sports 5 (US)(p)"
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279416
+#EXTINF:-1,Bein Sports 6 (US)(p)"
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279417
+#EXTINF:-1,Bein Sports 7 (US)(p)"
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279418
+#EXTINF:-1,Bein Sports 8 (US)(p)"
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279419
+#EXTINF:-1,Bein Sports Ñ op2 (p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279420
+#EXTINF:-1,Bein Sports Xtra (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279421
+#EXTINF:-1,Bein Sports Ñ (p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279422
+#EXTINF:-1,Eleven Sports Networks (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279423
+#EXTINF:-1,Fishing Network (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279429
+#EXTINF:-1,FS1 (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279430
+#EXTINF:-1,Magnolia Network (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279432
+#EXTINF:-1,Marquee Sports Network (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279433
+#EXTINF:-1,MLB Network (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279434
+#EXTINF:-1,Motortrend (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279435
+#EXTINF:-1,MSNBC (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279436
+#EXTINF:-1,NBA TV (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279437
+#EXTINF:-1,NBC Sports California (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279438
+#EXTINF:-1,NBC Sports Philadelphia (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279439
+#EXTINF:-1,NESN (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279441
+#EXTINF:-1,NESN Plus (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279442
+#EXTINF:-1,NHL Network (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279443
+#EXTINF:-1,Outdoor HD (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279444
+#EXTINF:-1,PAC-12 Insider (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279445
+#EXTINF:-1,SNY (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279446
+#EXTINF:-1,Spectrum News 1 (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279447
+#EXTINF:-1,Spectrum Sports Net LA Dodgers (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279448
+#EXTINF:-1,Stadium (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279450
+#EXTINF:-1,Tennis 2 (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279451
+#EXTINF:-1,Tennis Channel (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279452
+#EXTINF:-1,Cowboy Channel (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279453
+#EXTINF:-1,The Fight Network (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279454
+#EXTINF:-1,The Golf Channel (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279455
+#EXTINF:-1,UFC Fight Pass (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279457
+#EXTINF:-1,WWE Network (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279458
+#EXTINF:-1,ACC Network (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279459
+#EXTINF:-1,AT and T SportsNet Pitsburgh (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279461
+#EXTINF:-1,AT and T SportsNet Southwest (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279462
+#EXTINF:-1,Bally New Orleans Plus (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279463
+#EXTINF:-1,Bally South plus (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279464
+#EXTINF:-1,Bally Sports Detroit (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279465
+#EXTINF:-1,Yes Network (US)(p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/279510
+#EXTINF:-1,TV PUBLICA (AR)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/162336
+#EXTINF:-1,Band (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278928
+#EXTINF:-1,Combate (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278929
+#EXTINF:-1,Globo Brasila (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278930
+#EXTINF:-1,Globo Minas (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278931
+#EXTINF:-1,Globo News (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278932
+#EXTINF:-1,Gloobinho (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278933
+#EXTINF:-1,Premier Sports 4 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278934
+#EXTINF:-1,Premier Sports 5 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278935
+#EXTINF:-1,Premier Sports 6 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278936
+#EXTINF:-1,Premier Sports 7 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278937
+#EXTINF:-1,Premier Sports 8 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278938
+#EXTINF:-1,Premier Sports 1 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278939
+#EXTINF:-1,Premier Sports 2 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278940
+#EXTINF:-1,Premier Sports 3 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278941
+#EXTINF:-1,Record TV (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278942
+#EXTINF:-1,Sport TV 2 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278943
+#EXTINF:-1,Sport TV 3 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278944
+#EXTINF:-1,Sport TV 1 (BR)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278945
+#EXTINF:-1,A and E HD (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278946
+#EXTINF:-1,CBC Toronto (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278947
+#EXTINF:-1,CNN HD (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278948
+#EXTINF:-1,CP 24 (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278949
+#EXTINF:-1,Crime Investigation HD (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278950
+#EXTINF:-1,Disney Channel (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278951
+#EXTINF:-1,NBA TV (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278952
+#EXTINF:-1,Sportsnet World (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278954
+#EXTINF:-1,TSN Sports 1 (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278955
+#EXTINF:-1,TSN Sports 2 (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278956
+#EXTINF:-1,TSN Sports 3 (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278957
+#EXTINF:-1,TSN Sports 4 (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278958
+#EXTINF:-1,TSN Sports 5 (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278959
+#EXTINF:-1,City TV HD (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278960
+#EXTINF:-1,CTV News Network (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278961
+#EXTINF:-1,Sports NET 360 HD (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278962
+#EXTINF:-1,Sports NET East HD (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278963
+#EXTINF:-1,Sports NET One HD (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278964
+#EXTINF:-1,Sports NET Ontario HD (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278965
+#EXTINF:-1,Sports NET West HD (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278966
+#EXTINF:-1,RDS Info (CA)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278968
+#EXTINF:-1,CITY TV (CO)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168232
+#EXTINF:-1,NTN24 (CO)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/168470
+#EXTINF:-1,Win S + (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/280018
+#EXTINF:-1,Win S + (p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/280080
+#EXTINF:-1,Repretel 6 (CR)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/162225
+#EXTINF:-1,Repretel 4 (CR)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/162533
+#EXTINF:-1,Canal del Futbol (EC)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/162676
+#EXTINF:-1,Canal TVM (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165206
+#EXTINF:-1,Canal 2 (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165207
+#EXTINF:-1,Canal 2 TCS (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165208
+#EXTINF:-1,TCS Plus (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165209
+#EXTINF:-1,TCS Plus op2 (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165210
+#EXTINF:-1,Canal 6 (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165211
+#EXTINF:-1,Canal 6 TCS (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165212
+#EXTINF:-1,Canal 4 (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165213
+#EXTINF:-1,Canal 10 TVES (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165215
+#EXTINF:-1,Canal 12 (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165216
+#EXTINF:-1,Canal 21 (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165219
+#EXTINF:-1,Canal 21 op2 (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165220
+#EXTINF:-1,Tigo Sport op2 (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165223
+#EXTINF:-1,Tigo Sport HD + (SV)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/165224
+#EXTINF:-1,NatGeo Wild ES (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/92940
+#EXTINF:-1,Torole (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/160089
+#EXTINF:-1,Toros TV (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/160090
+#EXTINF:-1,La 2 (ES)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/167830
+#EXTINF:-1,TVC Deportes (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159442
+#EXTINF:-1,Canal 11 (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159443
+#EXTINF:-1,Canal 5  (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159444
+#EXTINF:-1,CANAL 6 (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159445
+#EXTINF:-1,Canal 7 (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159446
+#EXTINF:-1,HCH (HN). (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159447
+#EXTINF:-1,Megatv (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159448
+#EXTINF:-1,SiTv (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159449
+#EXTINF:-1,Teleceiba Canal 7 (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159450
+#EXTINF:-1,Televicentro HD (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159451
+#EXTINF:-1,UNE TV (HN) (i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/159455
+#EXTINF:-1,Scai PL (UK)(i)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/164433
+#EXTINF:-1,scai Sports Golf (UK)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278906
+#EXTINF:-1,scai SportsFootball (UK)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278910
+#EXTINF:-1,scai SportsPL (UK)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278913
+#EXTINF:-1,TNT SPORTS 1 HD (UK)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278915
+#EXTINF:-1,TNT SPORTS 2 HD (UK)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278916
+#EXTINF:-1,TNT SPORTS 3 HD (UK)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278917
+#EXTINF:-1,Bloomberg TV Asia Live Event (720p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/14616
+#EXTINF:-1,NHK World Japan (1080p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/14628
+#EXTINF:-1,QVC Japan (720p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/14632
+#EXTINF:-1,Shop Channel (720p)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/14633
+#EXTINF:-1,Alacocina tv (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278888
+#EXTINF:-1,Global (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278894
+#EXTINF:-1,GOL Peru (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278895
+#EXTINF:-1,Latina (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278896
+#EXTINF:-1,Liga 1 (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278897
+#EXTINF:-1,Liga 1 Max (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278898
+#EXTINF:-1,Mov Dep. (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278899
+#EXTINF:-1,Panamericana (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278901
+#EXTINF:-1,RPP (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278902
+#EXTINF:-1,Sur Peru (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278903
+#EXTINF:-1,Willax (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278904
+#EXTINF:-1,ATV (PE)(P)
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/278905
+#EXTINF:-1,Teleonce (PR)(i) op2
+http://xcm.budtv-ultra.com:25461/budtvline/8Y3ymUpJESps/167869
